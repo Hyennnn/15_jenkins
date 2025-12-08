@@ -1,8 +1,8 @@
-package com.example.controller;
+package com.example.jenkins.controller;
 
 
-import com.example.dto.CalculatorDTO;
-import com.example.service.CalculatorService;
+import com.example.jenkins.dto.CalculatorDTO;
+import com.example.jenkins.service.CalculatorService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;

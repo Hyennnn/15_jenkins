@@ -1,8 +1,10 @@
-package com.example.service;
+package com.example.jenkins.service;
 
-import static org.junit.jupiter.api.Assertions.*;
 
-import com.example.dto.CalculatorDTO;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import com.example.jenkins.dto.CalculatorDTO;
+import com.example.jenkins.service.CalculatorService;
 import java.util.stream.Stream;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.params.ParameterizedTest;
