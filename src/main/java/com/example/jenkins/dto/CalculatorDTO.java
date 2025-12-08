@@ -1,4 +1,4 @@
-package com.example.dto;
+package com.example.jenkins.dto;
 
 import lombok.Getter;
 import lombok.Setter;

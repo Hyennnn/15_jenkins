@@ -1,7 +1,7 @@
-package com.example.service;
+package com.example.jenkins.service;
 
 
-import com.example.dto.CalculatorDTO;
+import com.example.jenkins.dto.CalculatorDTO;
 import org.springframework.stereotype.Service;
 
 @Service
